@@ -1,0 +1,53 @@
+
+
+
+.home-container{
+    background: rgba(66,190,250);
+    width:100%;
+    
+    background-image: url('../assets/ewallet.jpg') ;
+    background-size: cover; 
+    background-attachment: fixed; 
+    
+    
+}
+.home-container1{
+    width:100%;
+    height:100vh;
+    background: rgba(48, 45, 44, 0.637);
+}
+
+
+.home-container h3{
+    padding-left: 860px;
+color: rgba(255, 255, 255, 0.767);
+text-align:none;
+padding-top: 100px;
+}
+.home-container h1{
+    margin-left: 860px;
+    text-align: bold;
+    /* padding-left: 900px; */
+    color: white;
+    /* float: right; */
+    /* margin-right: 10px; */
+}
+
+.home-container button{
+    height: 13vh;
+    width: 300px;
+    border-radius: 15px;
+    text-align: bold;
+    color: white;
+    background-color: rgb(66, 190, 250);
+    margin-left: 920px;
+    /* float: right; */
+    margin-top: 100px; 
+}
+
+
+
+   
+
+    
+

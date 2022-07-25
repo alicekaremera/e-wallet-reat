@@ -1,0 +1,16 @@
+
+.footer{
+    height: 100px;
+    width: 100%;
+    margin-top: 9px;
+    background-color: hwb(30 89% 7%);
+
+
+}
+
+p{
+     text-align: center;
+     text-decoration: none;
+    font-size: medium;
+    padding-top: 3%;
+}
